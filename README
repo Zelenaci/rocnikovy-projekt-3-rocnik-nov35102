@@ -1,0 +1,19 @@
+Hra 2048
+
+vysvětlení:
+
+matice 4x4
+sčítají se mocniny 2, a to vždy souštem stejné mocniny vedle sebe,
+
+pohyb
+
+
+(WSAD)
+W-NAHORU
+S-DOLU
+A-DOLEVA
+D-DOPRAVA
+
+VYHRAVÁ TEN KDO DOSÁHNE ČÍSLA 2048
+
+HRA JE SINGLPLAYER
