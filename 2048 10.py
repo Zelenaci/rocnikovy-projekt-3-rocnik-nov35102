@@ -158,8 +158,8 @@ while True:
     print(ted[1][0],"\t",ted[1][1],"\t",ted[1][2],"\t",ted[1][3],"\n")
     print(ted[2][0],"\t",ted[2][1],"\t",ted[2][2],"\t",ted[2][3],"\n")
     print(ted[3][0],"\t",ted[3][1],"\t",ted[3][2],"\t",ted[3][3],"\n")
-    #user_input = raw_input("w for nahoru, s for dolu, a for doleva and d for doprava")
-    #users_choice(ted,user_input)
+    user_input = input("w for nahoru, s for dolu, a for doleva and d for doprava")
+    users_choice(ted,user_input)
     listfori = []
     listforj = []
     count = 0
